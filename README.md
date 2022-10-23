@@ -12,7 +12,7 @@ Likewise, if you feel you'd like to collaborate on this project, feel free to co
 
 You can reach me via several channels:
 
-E-Mail: christopher-danz@web.de
-Medium: https://christopherdanz.medium.com/
-Soundcloud: Announcement coming soon
+E-Mail: christopher-danz@web.de\
+Medium: https://christopherdanz.medium.com\
+Soundcloud: Announcement coming soon\
 Website: Announcement coming soon
