@@ -3,7 +3,7 @@ Hey there, my name is Christopher Danz.
 I'm a full-time working Machine Learning Engineer, with special interest in Deep Learning and MLOps. 
 
 My current obsession is about Quantum Computing and it's applications along with other technologies. 
-That is why I am taking a 2-semester course of Qubit by Qubit's program in collaboration with Harvard University, MIT, Stanford and Oxford University on Quantum Computing. 
+That is why I am taking a 2-semester course of Qubit by Qubit's program on Quantum Computing (https://www.qubitbyqubit.org/). 
 I am driven by the idea to use my skills and knowledge to help other people and make their lifes easier and maybe even have a positive impact on our world.
 In case you want to exchange knowledge or collaborate on a topic, please feel free to contact me via any channel listed down below.
 
