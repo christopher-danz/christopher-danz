@@ -14,5 +14,5 @@ You can reach me via several channels:
 
 E-Mail: christopher-danz@web.de \
 Medium: https://christopherdanz.medium.com \
-Soundcloud: Announcement coming soon \
+Soundcloud: https://soundcloud.com/sir-danzalot \
 Website: Announcement coming soon
