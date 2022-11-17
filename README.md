@@ -20,7 +20,7 @@ Likewise, if you feel you'd like to collaborate on this project, feel free to co
 You can reach me via several channels:
 
 E-Mail: christopher-danz@web.de \
-LinkedIn: https://www.linkedin.com/in/christopher-danz-one/ \
+LinkedIn: https://www.linkedin.com/in/christopher-danz1/ \
 Medium: https://christopherdanz.medium.com \
 Soundcloud: https://soundcloud.com/sir-danzalot \
 Website: Announcement coming soon
