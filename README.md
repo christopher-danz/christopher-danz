@@ -8,8 +8,8 @@ I am driven by the idea to use my skills and knowledge to help other people and 
 In case you want to exchange knowledge or collaborate on a topic, please feel free to contact me via any channel listed down below.
 
 
-Are you interested in implementing AI that helps to make the world a better place? Join the AI for Good community as well as the Climate Change AI community and collaborate on real-world projects.
-AI for Good: https://aiforgood.itu.int/
+Are you interested in implementing AI that helps to make the world a better place? Join the AI for Good community as well as the Climate Change AI community and collaborate on real-world projects. \
+AI for Good: https://aiforgood.itu.int/ \
 Climate Change AI: https://community.climatechange.ai/home 
 
 
