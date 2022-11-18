@@ -16,7 +16,6 @@ As a side project I want to create a ML model that generates electronic music an
 Likewise, if you feel you'd like to collaborate, let me know.
 
 **Say 'Hi':**
-
 E-Mail: christopher-danz@web.de \
 LinkedIn: https://www.linkedin.com/in/christopher-danz1/ \
 Medium: https://christopherdanz.medium.com \
