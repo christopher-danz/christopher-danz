@@ -15,7 +15,7 @@ Climate Change AI: https://community.climatechange.ai/home
 As a side project I want to create a ML model that generates electronic music and mix this generated music into sets, upload them on Soundcloud and further dabble around with music and ML.
 Likewise, if you feel you'd like to collaborate, let me know.
 
-**Say 'Hi':**
+**Say 'Hi':** \
 E-Mail: christopher-danz@web.de \
 LinkedIn: https://www.linkedin.com/in/christopher-danz1/ \
 Medium: https://christopherdanz.medium.com \
