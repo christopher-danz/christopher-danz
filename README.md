@@ -3,7 +3,7 @@
 I'm a full-time working Machine Learning Engineer, with special interest in Deep Learning and MLOps. 
 
 My current obsession is about Quantum Computing and it's applications along with other technologies. 
-That is why I am taking a 2-semester course of Qubit by Qubit's program on Quantum Computing (https://www.qubitbyqubit.org/). 
+That is why I am taking a 2-semester course of Qubit by Qubit's program on Quantum Computing (https://www.qubitbyqubit.org/). \
 **I am driven by the idea** to use my skills and knowledge to help other people and make their lifes easier and maybe even have a positive impact on our world.
 
 **Are you interested in implementing AI that helps to make the world a better place?** Join the AI for Good community as well as the Climate Change AI community and collaborate on real-world projects. \
