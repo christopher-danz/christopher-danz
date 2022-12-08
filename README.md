@@ -11,6 +11,7 @@ This is why I am taking a 2-semester course of Qubit by Qubit's program on Quant
 - Computer Vision
 - NLP
 - Quantum Computing
+- Quantum Machine Learning
 - Explainable AI (XAI)
 - Data Quality & data-driven AI
 - DevOps and MLOps
