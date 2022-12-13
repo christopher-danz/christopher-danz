@@ -3,7 +3,7 @@
 I'm a full-time working Machine Learning Engineer, with special interest in Deep Learning and MLOps. 
 
 My current obsession is about Quantum Computing and it's applications along with other technologies. 
-This is why I am taking a 2-semester course of Qubit by Qubit's program on Quantum Computing (https://www.qubitbyqubit.org/). \
+This is why I am taking a 2-semester course of Qubit by Qubit's program on Quantum Computing (https://www.qubitbyqubit.org/) thanks to a scholarship of IBM. \
 **I am driven by the idea** to use my skills and knowledge to help other people and make their lifes easier and maybe even have a positive impact on our world.
 
 ## General interests
@@ -23,7 +23,6 @@ This is why I am taking a 2-semester course of Qubit by Qubit's program on Quant
 <div style="align: left;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
@@ -52,4 +51,4 @@ Climate Change AI: https://community.climatechange.ai/home
 LinkedIn: https://www.linkedin.com/in/christopher-danz1/ \
 Medium: https://christopherdanz.medium.com \
 Soundcloud: https://soundcloud.com/sir-danzalot \
-E-Mail: christopher-danz@web.de \
+E-Mail: christopher-danz@web.de
