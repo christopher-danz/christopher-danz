@@ -9,16 +9,12 @@ This is why I am taking a 2-semester course of Qubit by Qubit's program on Quant
 ## General interests
 
 - Computer Vision
-- NLP
-- Quantum Computing
-- Quantum Machine Learning
-- Explainable AI (XAI)
+- Ethical & Responsible AI
+- Quantum Computing & Quantum Machine Learning
 - Data Quality & data-driven AI
-- DevOps and MLOps
-- Data Science & Data Engineering
-- Physics and Mathematics
-
-## Some of the tools and frameworks I feel familiar with
+- MLOps
+- 
+## Some of the tools and frameworks I feel familiar with and that I used at my job
 
 <div style="align: left;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
